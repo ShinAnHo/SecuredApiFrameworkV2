@@ -1,0 +1,12 @@
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\bin\Debug\net5.0\Domain.Resource.Data.deps.json
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\bin\Debug\net5.0\Domain.Resource.Data.dll
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\bin\Debug\net5.0\ref\Domain.Resource.Data.dll
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\bin\Debug\net5.0\Domain.Resource.Data.pdb
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\obj\Debug\net5.0\Domain.Resource.Data.csproj.AssemblyReference.cache
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\obj\Debug\net5.0\Domain.Resource.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\obj\Debug\net5.0\Domain.Resource.Data.AssemblyInfoInputs.cache
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\obj\Debug\net5.0\Domain.Resource.Data.AssemblyInfo.cs
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\obj\Debug\net5.0\Domain.Resource.Data.csproj.CoreCompileInputs.cache
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\obj\Debug\net5.0\Domain.Resource.Data.dll
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\obj\Debug\net5.0\ref\Domain.Resource.Data.dll
+D:\SourceCode\SecuredApiFramework\ApiResource\Domain.Resource.Data\obj\Debug\net5.0\Domain.Resource.Data.pdb

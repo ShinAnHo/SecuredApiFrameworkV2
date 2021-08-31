@@ -1,0 +1,12 @@
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\bin\Debug\net5.0\Domain.IdentityServer.Data.deps.json
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\bin\Debug\net5.0\Domain.IdentityServer.Data.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\bin\Debug\net5.0\ref\Domain.IdentityServer.Data.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\bin\Debug\net5.0\Domain.IdentityServer.Data.pdb
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\obj\Debug\net5.0\Domain.IdentityServer.Data.csproj.AssemblyReference.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\obj\Debug\net5.0\Domain.IdentityServer.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\obj\Debug\net5.0\Domain.IdentityServer.Data.AssemblyInfoInputs.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\obj\Debug\net5.0\Domain.IdentityServer.Data.AssemblyInfo.cs
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\obj\Debug\net5.0\Domain.IdentityServer.Data.csproj.CoreCompileInputs.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\obj\Debug\net5.0\Domain.IdentityServer.Data.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\obj\Debug\net5.0\ref\Domain.IdentityServer.Data.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Data\obj\Debug\net5.0\Domain.IdentityServer.Data.pdb

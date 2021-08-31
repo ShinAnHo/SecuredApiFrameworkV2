@@ -1,0 +1,280 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Web\\Domain.IdentityServer.Web.csproj": {}
+  },
+  "projects": {
+    "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Business\\Domain.IdentityServer.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Business\\Domain.IdentityServer.Business.csproj",
+        "projectName": "Domain.IdentityServer.Business",
+        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Business\\Domain.IdentityServer.Business.csproj",
+        "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\SourceCode\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj": {
+                "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj"
+              },
+              "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj": {
+                "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj",
+        "projectName": "Domain.IdentityServer.Data",
+        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj",
+        "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\SourceCode\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Domain.Api": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Domain.Common": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Domain.Database": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj",
+        "projectName": "Domain.IdentityServer.Oauth",
+        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj",
+        "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\SourceCode\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Domain.Api": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Domain.Database": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Web\\Domain.IdentityServer.Web.csproj": {
+      "version": "1.0.1",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Web\\Domain.IdentityServer.Web.csproj",
+        "projectName": "Domain.IdentityServer.Web",
+        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Web\\Domain.IdentityServer.Web.csproj",
+        "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\SourceCode\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Business\\Domain.IdentityServer.Business.csproj": {
+                "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Business\\Domain.IdentityServer.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Domain.ApiSecurity": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Domain.ServiceDiscovery": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

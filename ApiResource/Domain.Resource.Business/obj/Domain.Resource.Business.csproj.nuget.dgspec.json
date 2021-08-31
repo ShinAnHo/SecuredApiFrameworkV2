@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj": {}
+  },
+  "projects": {
+    "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj",
+        "projectName": "Domain.Resource.Business",
+        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj",
+        "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\SourceCode\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj": {
+                "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Domain.Api": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj",
+        "projectName": "Domain.Resource.Data",
+        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj",
+        "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
+        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\SourceCode\\Nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Domain.Database": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

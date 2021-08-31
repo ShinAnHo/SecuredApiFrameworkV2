@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Domain.ApiSecurity" Version="1.0.1" />
+    <PackageReference Include="Domain.ServiceDiscovery" Version="1.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Libs\gentelella\production\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain.IdentityServer.Business\Domain.IdentityServer.Business.csproj" />
+  </ItemGroup>
+
+</Project>

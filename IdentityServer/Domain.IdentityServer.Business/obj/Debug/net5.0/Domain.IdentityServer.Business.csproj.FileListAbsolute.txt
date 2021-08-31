@@ -1,0 +1,17 @@
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\Domain.IdentityServer.Business.csproj.AssemblyReference.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\Domain.IdentityServer.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\Domain.IdentityServer.Business.AssemblyInfoInputs.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\Domain.IdentityServer.Business.AssemblyInfo.cs
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\Domain.IdentityServer.Business.csproj.CoreCompileInputs.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\bin\Debug\net5.0\Domain.IdentityServer.Business.deps.json
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\bin\Debug\net5.0\Domain.IdentityServer.Business.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\bin\Debug\net5.0\ref\Domain.IdentityServer.Business.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\bin\Debug\net5.0\Domain.IdentityServer.Business.pdb
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\bin\Debug\net5.0\Domain.IdentityServer.Data.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\bin\Debug\net5.0\Domain.IdentityServer.Oauth.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\bin\Debug\net5.0\Domain.IdentityServer.Data.pdb
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\bin\Debug\net5.0\Domain.IdentityServer.Oauth.pdb
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\Domain.IdentityServer.Business.csproj.CopyComplete
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\Domain.IdentityServer.Business.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\ref\Domain.IdentityServer.Business.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.Business\obj\Debug\net5.0\Domain.IdentityServer.Business.pdb

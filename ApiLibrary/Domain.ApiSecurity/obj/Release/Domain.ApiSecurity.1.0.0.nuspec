@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Domain.ApiSecurity</id>
+    <version>1.0.0</version>
+    <authors>Domain.ApiSecurity</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="Swashbuckle.AspNetCore" version="6.1.5" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.ApiSecurity\bin\Release\net5.0\Domain.ApiSecurity.dll" target="lib\net5.0\Domain.ApiSecurity.dll" />
+  </files>
+</package>

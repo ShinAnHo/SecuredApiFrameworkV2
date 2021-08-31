@@ -1,0 +1,15 @@
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\bin\Debug\net5.0\Domain.IdentityServer.OauthSchema.deps.json
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\bin\Debug\net5.0\Domain.IdentityServer.OauthSchema.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\bin\Debug\net5.0\ref\Domain.IdentityServer.OauthSchema.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\bin\Debug\net5.0\Domain.IdentityServer.OauthSchema.pdb
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\bin\Debug\net5.0\Domain.IdentityServer.Oauth.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\bin\Debug\net5.0\Domain.IdentityServer.Oauth.pdb
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\Domain.IdentityServer.OauthSchema.csproj.AssemblyReference.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\Domain.IdentityServer.OauthSchema.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\Domain.IdentityServer.OauthSchema.AssemblyInfoInputs.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\Domain.IdentityServer.OauthSchema.AssemblyInfo.cs
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\Domain.IdentityServer.OauthSchema.csproj.CoreCompileInputs.cache
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\Domain.IdentityServer.OauthSchema.csproj.CopyComplete
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\Domain.IdentityServer.OauthSchema.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\ref\Domain.IdentityServer.OauthSchema.dll
+D:\SourceCode\SecuredApiFramework\IdentityServer\Domain.IdentityServer.OauthSchema\obj\Debug\net5.0\Domain.IdentityServer.OauthSchema.pdb

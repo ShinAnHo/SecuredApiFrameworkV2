@@ -1,0 +1,121 @@
+{
+  "Routes": [
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/libs/{everything}",
+      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/libs/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "ServiceName": "IdentityServer",
+      "SwaggerKey": "IdentityServer",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/connect/{everything}",
+      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/api/connect/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "ServiceName": "IdentityServer",
+      "SwaggerKey": "IdentityServer",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/identity/{everything}",
+      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/api/identity/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "ServiceName": "IdentityServer",
+      "SwaggerKey": "IdentityServer",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      }
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/api/samplenews/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "ServiceName": "SampleNewsApi",
+      "SwaggerKey": "SampleNewsApi",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "SampleNewsApi",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "UseServiceDiscovery": true,
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "https",
+      "UpstreamPathTemplate": "/api/samplecountry/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "ServiceName": "SampleCountryApi",
+      "SwaggerKey": "SampleCountryApi",
+      "LoadBalancerOptions": {
+        "Type": "LeastConnection"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "SampleCountryApi",
+        "AllowedScopes": []
+      }
+    }
+  ],
+  "SwaggerEndPoints": [
+    {
+      "Key": "IdentityServer",
+      "Config": [
+        {
+          "Name": "IdentityServer",
+          "Version": "v1",
+          "Service": {
+            "Name": "IdentityServer",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "SampleNewsApi",
+      "Config": [
+        {
+          "Name": "SampleNewsApi",
+          "Version": "v1",
+          "Service": {
+            "Name": "SampleNewsApi",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "SampleCountryApi",
+      "Config": [
+        {
+          "Name": "SampleCountryApi",
+          "Version": "v1",
+          "Service": {
+            "Name": "SampleCountryApi",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:44310",
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500,
+      "Type": "Consul"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\bin\Debug\net5.0\Domain.Database.deps.json
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\bin\Debug\net5.0\Domain.Database.dll
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\bin\Debug\net5.0\ref\Domain.Database.dll
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\bin\Debug\net5.0\Domain.Database.pdb
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Debug\net5.0\Domain.Database.csproj.AssemblyReference.cache
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Debug\net5.0\Domain.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Debug\net5.0\Domain.Database.AssemblyInfoInputs.cache
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Debug\net5.0\Domain.Database.AssemblyInfo.cs
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Debug\net5.0\Domain.Database.csproj.CoreCompileInputs.cache
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Debug\net5.0\Domain.Database.dll
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Debug\net5.0\ref\Domain.Database.dll
+D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Debug\net5.0\Domain.Database.pdb
