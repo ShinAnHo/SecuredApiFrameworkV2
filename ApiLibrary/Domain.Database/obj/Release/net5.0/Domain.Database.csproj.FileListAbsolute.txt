@@ -10,3 +10,15 @@ D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Release\net5.0\
 D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.dll
 D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Release\net5.0\ref\Domain.Database.dll
 D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.pdb
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\bin\Release\net5.0\Domain.Database.deps.json
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\bin\Release\net5.0\Domain.Database.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\bin\Release\net5.0\ref\Domain.Database.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\bin\Release\net5.0\Domain.Database.pdb
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.csproj.AssemblyReference.cache
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.AssemblyInfoInputs.cache
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.AssemblyInfo.cs
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.csproj.CoreCompileInputs.cache
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\obj\Release\net5.0\ref\Domain.Database.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\obj\Release\net5.0\Domain.Database.pdb

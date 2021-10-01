@@ -10,3 +10,15 @@ D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0
 D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.dll
 D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\ref\Domain.ApiSecurity.dll
 D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.pdb
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\bin\Debug\net5.0\Domain.ApiSecurity.deps.json
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\bin\Debug\net5.0\Domain.ApiSecurity.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\bin\Debug\net5.0\ref\Domain.ApiSecurity.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\bin\Debug\net5.0\Domain.ApiSecurity.pdb
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.csproj.AssemblyReference.cache
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.AssemblyInfoInputs.cache
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.AssemblyInfo.cs
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.csproj.CoreCompileInputs.cache
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\ref\Domain.ApiSecurity.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\obj\Debug\net5.0\Domain.ApiSecurity.pdb

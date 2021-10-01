@@ -15,6 +15,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.Database\bin\Debug\net5.0\Domain.Database.dll" target="lib\net5.0\Domain.Database.dll" />
+    <file src="D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Database\bin\Debug\net5.0\Domain.Database.dll" target="lib\net5.0\Domain.Database.dll" />
   </files>
 </package>

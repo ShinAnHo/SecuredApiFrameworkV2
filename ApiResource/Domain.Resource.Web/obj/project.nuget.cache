@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eZMDAmLKjx5IoYjdp4Tvn3/eZkXtyhxjFEpOUnJmt4LeI/+ILW4dxHp3JSv5wuBSESHwWrTgvMrPoWjkJ6ykJg==",
+  "dgSpecHash": "U06HFFd6za6NrPT9++EgTbrcgR2BUkwGNeVhLcoSfJMRYSFIy7qdu2acNwXFsBZSBSz68tIEqPNQXqqpc+2KOA==",
   "success": true,
-  "projectFilePath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Web\\Domain.Resource.Web.csproj",
+  "projectFilePath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Web\\Domain.Resource.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kohar\\.nuget\\packages\\consul\\1.6.10.3\\consul.1.6.10.3.nupkg.sha512",
     "C:\\Users\\kohar\\.nuget\\packages\\domain.api\\1.0.1\\domain.api.1.0.1.nupkg.sha512",

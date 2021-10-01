@@ -6563,11 +6563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\ApiGateway\\Domain.Gateway\\Domain.Gateway.csproj",
+      "projectUniqueName": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiGateway\\Domain.Gateway\\Domain.Gateway.csproj",
       "projectName": "Domain.Gateway",
-      "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiGateway\\Domain.Gateway\\Domain.Gateway.csproj",
+      "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiGateway\\Domain.Gateway\\Domain.Gateway.csproj",
       "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
-      "outputPath": "D:\\SourceCode\\SecuredApiFramework\\ApiGateway\\Domain.Gateway\\obj\\",
+      "outputPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiGateway\\Domain.Gateway\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",

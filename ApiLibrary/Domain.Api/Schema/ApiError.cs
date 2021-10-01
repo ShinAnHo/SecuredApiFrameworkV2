@@ -33,7 +33,7 @@ namespace Domain.Api
         public ApiError(string key, ApiMessageType apiMessageType, List<ApiValidation> validations)
         {
             this.IsSuccess = false;
-            this.Message = ApiHelper.GetEnumDescription(apiMessageType, key);
+            this.Message = Common.GetEnumDescription(apiMessageType, key);
             this.Validations = validations;
         }
     }

@@ -3649,11 +3649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.Database\\Domain.Database.csproj",
+      "projectUniqueName": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.Database\\Domain.Database.csproj",
       "projectName": "Domain.Database",
-      "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.Database\\Domain.Database.csproj",
+      "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.Database\\Domain.Database.csproj",
       "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
-      "outputPath": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.Database\\obj\\",
+      "outputPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",

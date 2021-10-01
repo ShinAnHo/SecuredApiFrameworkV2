@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1fAD5rp1pEi8pvcydiW3eilW1Eykxo2rraASGl2E/rmFS4JsH9MFfwF7zLL7/nVAp1luHSXRBKYvtutOUj790w==",
+  "dgSpecHash": "aQC3hCBR1CJeygKCMoYI3alIRQrv7VjnR1zbjiCkBIvjC5ZDzrkwzlg1YS2Ufqh3mYXeKtIR6Mdpl+330joHnQ==",
   "success": true,
-  "projectFilePath": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj",
+  "projectFilePath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kohar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\kohar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

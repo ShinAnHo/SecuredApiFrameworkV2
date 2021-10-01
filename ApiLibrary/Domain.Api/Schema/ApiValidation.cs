@@ -9,7 +9,7 @@ namespace Domain.Api
         {
             get
             {
-                return ApiHelper.GetEnumDescriptionAttribute<ApiValidationType>(ValidationType).Description;
+                return Common.GetEnumDescriptionAttribute<ApiValidationType>(ValidationType).Description;
             }
             set
             {
@@ -18,5 +18,11 @@ namespace Domain.Api
         }
         [JsonIgnore]
         public ApiValidationType ValidationType { get; set; }
+        public ApiValidation() { }
+        public ApiValidation(string key, ApiValidationType validationType)
+        {
+            this.Key = key;
+            this.ValidationType = validationType;
+        }
     }
 }

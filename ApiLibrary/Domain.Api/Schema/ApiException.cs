@@ -1,7 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc.Filters;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Net;
 using System.Runtime.Serialization;
 
 namespace Domain.Api

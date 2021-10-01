@@ -12,6 +12,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.ApiSecurity\bin\Debug\net5.0\Domain.ApiSecurity.dll" target="lib\net5.0\Domain.ApiSecurity.dll" />
+    <file src="D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ApiSecurity\bin\Debug\net5.0\Domain.ApiSecurity.dll" target="lib\net5.0\Domain.ApiSecurity.dll" />
   </files>
 </package>

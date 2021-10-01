@@ -22,7 +22,7 @@ namespace Domain.Api
         public ApiResult(string key, ApiMessageType apiMessageType, object data)
         {
             this.IsSuccess = true;
-            this.Message = ApiHelper.GetEnumDescription(apiMessageType, key);
+            this.Message = Common.GetEnumDescription(apiMessageType, key);
             this.Data = data;
         }
     }

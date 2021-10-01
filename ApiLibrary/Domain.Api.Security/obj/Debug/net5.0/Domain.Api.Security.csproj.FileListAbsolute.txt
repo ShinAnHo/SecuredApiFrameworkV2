@@ -1,0 +1,11 @@
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\bin\Debug\net5.0\Domain.Api.Security.deps.json
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\bin\Debug\net5.0\Domain.Api.Security.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\bin\Debug\net5.0\ref\Domain.Api.Security.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\bin\Debug\net5.0\Domain.Api.Security.pdb
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\obj\Debug\net5.0\Domain.Api.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\obj\Debug\net5.0\Domain.Api.Security.AssemblyInfoInputs.cache
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\obj\Debug\net5.0\Domain.Api.Security.AssemblyInfo.cs
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\obj\Debug\net5.0\Domain.Api.Security.csproj.CoreCompileInputs.cache
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\obj\Debug\net5.0\Domain.Api.Security.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\obj\Debug\net5.0\ref\Domain.Api.Security.dll
+D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.Api.Security\obj\Debug\net5.0\Domain.Api.Security.pdb

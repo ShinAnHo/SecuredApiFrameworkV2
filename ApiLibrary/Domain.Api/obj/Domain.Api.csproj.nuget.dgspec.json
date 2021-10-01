@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.Api\\Domain.Api.csproj": {}
+    "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.Api\\Domain.Api.csproj": {}
   },
   "projects": {
-    "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.Api\\Domain.Api.csproj": {
-      "version": "1.0.1",
+    "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.Api\\Domain.Api.csproj": {
+      "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.Api\\Domain.Api.csproj",
+        "projectUniqueName": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.Api\\Domain.Api.csproj",
         "projectName": "Domain.Api",
-        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.Api\\Domain.Api.csproj",
+        "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.Api\\Domain.Api.csproj",
         "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.Api\\obj\\",
+        "outputPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,29 +41,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Mvc.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Core": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Mvc.Formatters.Json": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
-            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.1, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[6.12.2, )"
             }
           },
           "imports": [

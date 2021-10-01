@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj": {}
+    "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj": {}
   },
   "projects": {
-    "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj": {
+    "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj",
+        "projectUniqueName": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj",
         "projectName": "Domain.Resource.Business",
-        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj",
+        "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Business\\Domain.Resource.Business.csproj",
         "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Business\\obj\\",
+        "outputPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj": {
-                "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj"
+              "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj": {
+                "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj"
               }
             }
           }
@@ -44,12 +44,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Domain.Api": {
-              "target": "Package",
-              "version": "[1.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -69,14 +63,14 @@
         }
       }
     },
-    "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj": {
+    "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj",
+        "projectUniqueName": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj",
         "projectName": "Domain.Resource.Data",
-        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj",
+        "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj",
         "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\obj\\",
+        "outputPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",

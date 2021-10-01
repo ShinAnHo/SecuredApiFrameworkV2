@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/KQlGKbgOk+wmebIZXRlggJu0+YKvu5SxKw7Fae/EJRwG6MTCHSMa8SWq1Vgjmhvlf19s8ei9BUQGZQVcaSMPQ==",
+  "dgSpecHash": "DRwsT5RHLMcwFp/qiC6FWu++tWKfIqNRvDgrfWcgXaLv/HnPs2rYvZJy8Xmc0CwGcAkQIfaOODPN90zX/opmTg==",
   "success": true,
-  "projectFilePath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj",
+  "projectFilePath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kohar\\.nuget\\packages\\domain.api\\1.0.1\\domain.api.1.0.1.nupkg.sha512",
     "C:\\Users\\kohar\\.nuget\\packages\\domain.common\\1.0.0\\domain.common.1.0.0.nupkg.sha512",

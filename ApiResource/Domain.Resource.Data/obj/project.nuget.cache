@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C9FKBlPrlr/AS69p1WL3GDP4XGCKEuA7RbIdMRhNfC712+S3BaSD/sh4jrWN1zCKjyhFSdvKa5KbcgvBSoSbMw==",
+  "dgSpecHash": "mP6lq/VcfLDfzXCagm2/M6u1xn2tUXWExxPvxbMtg6OW3rhdrw/lSEjP5TywhEqttiBY0A8EOeT8Y78a6+56Zw==",
   "success": true,
-  "projectFilePath": "D:\\SourceCode\\SecuredApiFramework\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj",
+  "projectFilePath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiResource\\Domain.Resource.Data\\Domain.Resource.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kohar\\.nuget\\packages\\domain.database\\1.0.0\\domain.database.1.0.0.nupkg.sha512",
     "C:\\Users\\kohar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

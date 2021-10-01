@@ -26,6 +26,7 @@ namespace Domain.IdentityServer.Web
 {
     public class Startup
     {
+        readonly string defaultOrigins = "_defaultOrigins";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -42,7 +43,14 @@ namespace Domain.IdentityServer.Web
             services.AddFilter();
             services.AddSecurity();
 
-            services.AddCors();
+            services.AddCors(options =>
+            {
+                options.AddPolicy(name: defaultOrigins, builder =>
+                {
+                    builder.WithOrigins("https://localhost:44397");
+                    //builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost");
+                });
+            });
             services.AddControllers();
             services.AddSwaggerGen();
         }
@@ -64,9 +72,11 @@ namespace Domain.IdentityServer.Web
 
             app.UseRouting();
 
+            app.UseCors(defaultOrigins);
+
             app.UseAuthorization();
 
-            app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+            //app.UseCors(x => x.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
             app.UseMiddleware<JwtMiddleware>();
 
             app.UseStaticFiles();

@@ -9,6 +9,8 @@ namespace Domain.Api
         [Description("Already exists")]
         AlreadyExist,
         [Description("Invalid")]
-        Invalid
+        Invalid,
+        [Description("Required")]
+        Required
     }
 }

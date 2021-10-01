@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I/K+OkUAyZMMg0nOuGIRKxvkTQNdbi0zKbirT/oci7zmkkLPIf7oljgOk8hkfKHkDGg7Uijv5IzxBKYQrHcfVA==",
+  "dgSpecHash": "37xfp01OIUtblaxud75bFVPyEwt2N5JErGfgHl8kS1kIEhtQpniMSPaj/IOTs6R/J8A1o1/H8jfCm6ak2rkUlg==",
   "success": true,
-  "projectFilePath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Web\\Domain.IdentityServer.Web.csproj",
+  "projectFilePath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Web\\Domain.IdentityServer.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kohar\\.nuget\\packages\\consul\\1.6.10.3\\consul.1.6.10.3.nupkg.sha512",
     "C:\\Users\\kohar\\.nuget\\packages\\domain.api\\1.0.1\\domain.api.1.0.1.nupkg.sha512",

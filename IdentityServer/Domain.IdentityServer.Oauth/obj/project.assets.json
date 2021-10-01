@@ -7535,11 +7535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj",
+      "projectUniqueName": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj",
       "projectName": "Domain.IdentityServer.Oauth",
-      "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj",
+      "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj",
       "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
-      "outputPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\obj\\",
+      "outputPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Oauth\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",

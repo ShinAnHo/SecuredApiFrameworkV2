@@ -23,7 +23,7 @@ namespace Domain.Resource.Web
         }
         // Return all news in database and can be accessed by everyone
         [HttpGet, Route("")]
-        [Authorize, RequireClaim("user.role", "reader", "writer", "supervisor"), RequireClaim("scope", "samplenewsapi.read")]
+        //[Authorize, RequireClaim("user.role", "reader", "writer", "supervisor"), RequireClaim("scope", "samplenewsapi.read")]
         public async Task<IActionResult> Get()
         {
             var userRole = HttpContext.Request.GetClaim("user.role");
@@ -48,7 +48,7 @@ namespace Domain.Resource.Web
         }
         // Return single news in database and can be accessed by everyone
         [HttpGet, Route("{Id}")]
-        [Authorize, RequireClaim("user.role", "reader", "writer", "supervisor")]
+        //[Authorize, RequireClaim("user.role", "reader", "writer", "supervisor")]
         public async Task<IActionResult> Get(long Id)
         {
             var data = await _news.GetById(Id);
@@ -59,7 +59,7 @@ namespace Domain.Resource.Web
         }
         // write a news in database and can be accessed only by writer and supervisor
         [HttpPost, Route("insert")]
-        [Authorize, RequireClaim("user.role", "writer", "supervisor"), RequireClaim("scope", "samplenewsapi.write")]
+        //[Authorize, RequireClaim("user.role", "writer", "supervisor"), RequireClaim("scope", "samplenewsapi.write")]
         public async Task<IActionResult> Insert([FromBody] News data)
         {
             var currentUser = HttpContext.Request.GetClaim("sub");
@@ -79,7 +79,7 @@ namespace Domain.Resource.Web
         // update a news in database and can be accessed only by writer and supervisor
         // writer can only update their own news while supervisor can access all news
         [HttpPost, Route("update")]
-        [Authorize, RequireClaim("user.role", "writer", "supervisor"), RequireClaim("scope", "samplenewsapi.write")]
+        //[Authorize, RequireClaim("user.role", "writer", "supervisor"), RequireClaim("scope", "samplenewsapi.write")]
         public async Task<IActionResult> Update([FromBody] News data)
         {
             var currentRole = HttpContext.Request.GetClaim("user.role");
@@ -100,7 +100,7 @@ namespace Domain.Resource.Web
         }
         // delete a news in database and can be accessed only by supervisor
         [HttpPost, Route("delete")]
-        [Authorize, RequireClaim("user.role", "supervisor"), RequireClaim("scope", "samplenewsapi.write")]
+        //[Authorize, RequireClaim("user.role", "supervisor"), RequireClaim("scope", "samplenewsapi.write")]
         public async Task<IActionResult> Delete([FromBody] News data)
         {
             var currentUser = HttpContext.Request.GetClaim("sub");

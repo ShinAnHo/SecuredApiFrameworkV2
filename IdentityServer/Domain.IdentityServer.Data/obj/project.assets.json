@@ -7556,11 +7556,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj",
+      "projectUniqueName": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj",
       "projectName": "Domain.IdentityServer.Data",
-      "projectPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj",
+      "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Data\\Domain.IdentityServer.Data.csproj",
       "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
-      "outputPath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Data\\obj\\",
+      "outputPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",

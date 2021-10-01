@@ -16,6 +16,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="D:\SourceCode\SecuredApiFramework\ApiLibrary\Domain.ServiceDiscovery\bin\Release\net5.0\Domain.ServiceDiscovery.dll" target="lib\net5.0\Domain.ServiceDiscovery.dll" />
+    <file src="D:\SourceCode\Github\SecuredApiFrameworkV2\ApiLibrary\Domain.ServiceDiscovery\bin\Release\net5.0\Domain.ServiceDiscovery.dll" target="lib\net5.0\Domain.ServiceDiscovery.dll" />
   </files>
 </package>

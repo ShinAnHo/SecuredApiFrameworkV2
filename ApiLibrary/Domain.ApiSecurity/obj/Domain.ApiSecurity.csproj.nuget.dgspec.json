@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj": {}
+    "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj": {}
   },
   "projects": {
-    "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj": {
+    "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj": {
       "version": "1.0.1",
       "restore": {
-        "projectUniqueName": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj",
+        "projectUniqueName": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj",
         "projectName": "Domain.ApiSecurity",
-        "projectPath": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj",
+        "projectPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.ApiSecurity\\Domain.ApiSecurity.csproj",
         "packagesPath": "C:\\Users\\kohar\\.nuget\\packages\\",
-        "outputPath": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.ApiSecurity\\obj\\",
+        "outputPath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.ApiSecurity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kohar\\AppData\\Roaming\\NuGet\\NuGet.Config",

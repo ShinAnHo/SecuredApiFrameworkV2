@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cL8fPWW7CygU72kk3wtUWuK5uGW6iI8G/lwawSjwuslUI4cWyR82uKPq4BMEeHmItFknKT0PlkGqEsTfGrv8KQ==",
+  "dgSpecHash": "XL3iu8m/I6xlWwnqwP98lgm/rRQC7BJZbQqwVozG1DEF/VoZFCKMmK2LFDSCPdgBMYQnB0Gvl5EEy3/viwr+Ww==",
   "success": true,
-  "projectFilePath": "D:\\SourceCode\\SecuredApiFramework\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj",
+  "projectFilePath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\IdentityServer\\Domain.IdentityServer.Oauth\\Domain.IdentityServer.Oauth.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kohar\\.nuget\\packages\\domain.api\\1.0.1\\domain.api.1.0.1.nupkg.sha512",
     "C:\\Users\\kohar\\.nuget\\packages\\domain.database\\1.0.0\\domain.database.1.0.0.nupkg.sha512",

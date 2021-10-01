@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9kILsXtF6pOTY6SAuhpU36copcTwSSok5y+3L/mP4Q3Mx6jxXnmdZQcV+5ZElRqvSWscJD+YVnRY9GzciqVOnw==",
+  "dgSpecHash": "dus+2JeICZ1Dzry7+SQlUBvezWRouuZ1FLk9iAewYiMghb+qbvitRMfLcf2JaWoDqdrmM6S5UCShDlHPoqpZpg==",
   "success": true,
-  "projectFilePath": "D:\\SourceCode\\SecuredApiFramework\\ApiLibrary\\Domain.ServiceDiscovery\\Domain.ServiceDiscovery.csproj",
+  "projectFilePath": "D:\\SourceCode\\Github\\SecuredApiFrameworkV2\\ApiLibrary\\Domain.ServiceDiscovery\\Domain.ServiceDiscovery.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kohar\\.nuget\\packages\\consul\\1.6.10.3\\consul.1.6.10.3.nupkg.sha512",
     "C:\\Users\\kohar\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
