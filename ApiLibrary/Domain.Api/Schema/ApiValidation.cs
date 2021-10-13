@@ -1,4 +1,6 @@
-﻿using System.Text.Json.Serialization;
+﻿using System;
+using System.Linq;
+using System.Text.Json.Serialization;
 
 namespace Domain.Api
 {
@@ -13,7 +15,7 @@ namespace Domain.Api
             }
             set
             {
-                ValidationType = (ApiValidationType)int.Parse(value);
+                ValidationType = Enum.GetValues(typeof(ApiValidationType)).Cast<ApiValidationType>().FirstOrDefault(v => v.GetEnumDescriptionAttribute<ApiValidationType>().Description == value);
             }
         }
         [JsonIgnore]

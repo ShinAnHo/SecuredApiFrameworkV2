@@ -9,6 +9,7 @@ namespace Domain.Api
         public string ExceptionMessage { get; set; }
         public List<ApiValidation> Validations { get; set; }
         public ApiException() : base() { }
+        public ApiException(string message) : base(message) { }
         public ApiException(List<ApiValidation> validations) : base()
         {
             this.Validations = validations;

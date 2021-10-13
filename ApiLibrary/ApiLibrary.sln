@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Database", "Domain.D
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.ServiceDiscovery", "Domain.ServiceDiscovery\Domain.ServiceDiscovery.csproj", "{FF5AF29C-963B-4078-8970-10DDE8EDEFDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Api.Security", "Domain.Api.Security\Domain.Api.Security.csproj", "{1BB6C7BE-0590-4789-B496-264FDA0779B1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain.Api.Security", "Domain.Api.Security\Domain.Api.Security.csproj", "{1BB6C7BE-0590-4789-B496-264FDA0779B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.Api.Encryption", "Domain.Api.Encryption\Domain.Api.Encryption.csproj", "{2121F4B2-C4A3-4208-91BA-B67E1F78C690}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1BB6C7BE-0590-4789-B496-264FDA0779B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BB6C7BE-0590-4789-B496-264FDA0779B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BB6C7BE-0590-4789-B496-264FDA0779B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2121F4B2-C4A3-4208-91BA-B67E1F78C690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2121F4B2-C4A3-4208-91BA-B67E1F78C690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2121F4B2-C4A3-4208-91BA-B67E1F78C690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2121F4B2-C4A3-4208-91BA-B67E1F78C690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
